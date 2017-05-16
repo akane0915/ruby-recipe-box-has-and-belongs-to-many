@@ -7,7 +7,7 @@ gem "rake"
 gem "pg"
 gem "sinatra"
 gem "pry"
-gem "rb-readline"
+
 
 
 group :test do
